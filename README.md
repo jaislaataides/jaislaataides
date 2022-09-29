@@ -1,5 +1,5 @@
 ### Olá! 👋
-<hr>
+
 <!--
 **jaislaataides/jaislaataides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div  style="display: inline_block">
+<p align="left">
+ Seja bem vindo(a) ao meu perfil! <br> Sinta-se à vontade para acompanhar meu desenvolvimento e dos meus projetos. 
+</p>
 <a href="https://github.com/jaislaataides">
-
-<img align="right" alt="cute-gif" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1017139709090209824/1020460772704391178/ezgif.com-gif-maker_2.gif?width=453&height=453">
+<img align="right" alt="cute-gif" height="275" style="border-radius:100px;" src="https://media.discordapp.net/attachments/1017139709090209824/1020460772704391178/ezgif.com-gif-maker_2.gif?width=453&height=453">
 </div>
 
