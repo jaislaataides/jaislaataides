@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  Seja bem vindo(a) ao meu perfil! <br> Sinta-se à vontade para acompanhar meu desenvolvimento e dos meus projetos. 
 </p>
  <p>
- <h4>Quem sou eu?</h4> <br>
+ <h4>Quem sou eu?</h4>
    Sou uma estudante comum na área da computação, que entrou na universidade sem absolutamente nenhum conhecimento prévio.<br>
  </p>
 <a href="https://github.com/jaislaataides">
