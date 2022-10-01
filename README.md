@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <p>
  <h4>Quem sou eu?</h4>
-   Sou uma estudante comum na área da computação, que entrou na universidade sem absolutamente nenhum conhecimento prévio.<br>
+   Tenho 19 anos, sou uma estudante comum na área da computação, que entrou na universidade sem absolutamente nenhum conhecimento prévio. Nessa jornada venho me aventurando, descobrindo e me apaixonando por programação.<br>
  </p>
  </div>
  <div>
