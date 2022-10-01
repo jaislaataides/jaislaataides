@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div  style="display: inline_block">
+<div style="display: inline_block">
 <p align="left">
  Seja bem vindo(a) ao meu perfil! <br> Sinta-se à vontade para acompanhar meu desenvolvimento e dos meus projetos. 
 </p>
- <p>
+<p>
  <h4>Quem sou eu?</h4>
    Sou uma estudante comum na área da computação, que entrou na universidade sem absolutamente nenhum conhecimento prévio.<br>
  </p>
+ </div>
+ <div>
 <a href="https://github.com/jaislaataides">
 <a href="https://www.instagram.com/invites/contact/?i=5odl3375je6r&utm_content=2n6b18m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
