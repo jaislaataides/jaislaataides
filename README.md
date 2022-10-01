@@ -13,8 +13,8 @@
  </p>
  </div>
  
- <div>
- <h3> Me contate!</h3>
+ <div align="center">
+ <h2> </h2>
 <a href="https://github.com/jaislaataides">
 <a href="https://www.instagram.com/invites/contact/?i=5odl3375je6r&utm_content=2n6b18m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
