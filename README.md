@@ -1,6 +1,6 @@
 <div style="display: inline_block">
 
-<img align="right" alt="cute-gif" height="275" style="border-radius:100px;" src="https://media.discordapp.net/attachments/1017139709090209824/1020460772704391178/ezgif.com-gif-maker_2.gif?width=453&height=453">
+<img align="right" alt="cute-gif" height="275" src="https://media.discordapp.net/attachments/1017139709090209824/1020460772704391178/ezgif.com-gif-maker_2.gif?width=453&height=453">
 
 <h2> Olá! 👋 </h2>
  <p align="left">
