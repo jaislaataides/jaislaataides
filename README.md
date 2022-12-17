@@ -14,6 +14,9 @@
  </div>
  <br>
  <div align="center">
+ <br>
+ <h2></h2>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaislaataides&langs_count=8&theme=omni&hide_border=false&cache_seconds=0">
  <h2> </h2>
 <a href="https://github.com/jaislaataides">
 <a href="https://www.instagram.com/invites/contact/?i=5odl3375je6r&utm_content=2n6b18m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
