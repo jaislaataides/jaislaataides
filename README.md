@@ -9,7 +9,7 @@
 
 <p>
  <h2 >Quem sou eu?</h2>
-   Tenho 20
+   Tenho 21
  anos, sou uma estudante comum na área da computação, que entrou na universidade sem absolutamente nenhum conhecimento prévio. Nessa jornada venho me aventurando, descobrindo e me apaixonando por programação.<br>
  </p>
  </div>
